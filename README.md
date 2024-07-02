@@ -1,2 +1,2 @@
 # ToonBoomHarmony
-Small tools for Toon Boom Harmony
+Code searches each drawing node for the substitution "Zzz_Blank". If it does not find one, it adds one.
